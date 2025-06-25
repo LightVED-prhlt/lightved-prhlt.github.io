@@ -1,0 +1,95 @@
+# Project information
+site_name: LightVed - PRHLT
+site_url: https://lightved-prhlt.github.io/
+site_author: PRHLT Research Group
+site_description: >-
+  LightVED (Lightweight Vision Encoder-Decoder) es una iniciativa de investigación centrada en mejorar los modelos encoder-decoder que conectan visión por computador y procesamiento de lenguaje natural. Nuestro objetivo es crear arquitecturas ligeras y eficientes que permitan aplicaciones prácticas con menor coste computacional.
+
+# Repository
+# repo_name: lightved-prhlt/lightved-prhlt.github.io
+# repo_url: https://lightved-prhlt.github.io/
+
+# Copyright
+copyright: Copyright © 2025 PRHLT Research Group
+
+# Configuration
+theme:
+  name: material
+  language: es
+  features:
+    - announce.dismiss
+    # - content.action.edit
+    # - content.action.view
+    # - content.code.annotate
+    # - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    # - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    # - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon.png
+  logo: assets/images/logo.png
+
+# Markdown extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Additional configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lightved-prhlt
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/prhlt_upv/
+    - icon: fontawesome/solid/globe
+      link: https://prhlt.upv.es/
+
+# Page tree
+nav:
+  - Inicio: index.md
+  - Publicaciones: publications.md
+  - Equipo: team.md
+  - Contacto: contact.md
