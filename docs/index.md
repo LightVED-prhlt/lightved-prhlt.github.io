@@ -6,6 +6,10 @@ Bienvenidos a la página web oficial del proyecto **LightVED: Lightweight Vision
 
 **LightVED** es una iniciativa de investigación centrada en mejorar los modelos **encoder-decoder** que conectan visión por computador y procesamiento de lenguaje natural. Nuestro objetivo es crear arquitecturas ligeras y eficientes que permitan aplicaciones prácticas con menor coste computacional.
 
+<p align="center">
+    <img src="assets/images/robots.png" width="50%">
+</p>
+
 ## Líneas de investigación
 
 - Procesamiento multimodal (visión + lenguaje) para la investigación médica
