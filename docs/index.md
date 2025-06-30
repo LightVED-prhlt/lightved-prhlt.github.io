@@ -1,14 +1,14 @@
 # Bienvenidos/as a LightVED
 
+<p align="center">
+    <img src="assets/images/robots.png" width="50%">
+</p>
+
 Bienvenidos a la página web oficial del proyecto **LightVED: Lightweight Vision Encoder Decoder for multi-modal transcription problems**, desarrollado por el grupo de investigación **PRHLT** (Pattern Recognition and Human Language Technologies) de la Universitat Politècnica de València (UPV).
 
 ## Descripción del proyecto
 
 **LightVED** es una iniciativa de investigación centrada en mejorar los modelos **encoder-decoder** que conectan visión por computador y procesamiento de lenguaje natural. Nuestro objetivo es crear arquitecturas ligeras y eficientes que permitan aplicaciones prácticas con menor coste computacional.
-
-<p align="center">
-    <img src="assets/images/robots.png" width="50%">
-</p>
 
 ## Líneas de investigación
 
