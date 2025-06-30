@@ -9,7 +9,7 @@ A continuación se presentan algunas publicaciones clave que sustentan teóricam
 - Luis-Jesus Marhuenda, Miquel Obrador-Reina, Mohamed Aas-Alas, Alberto Albiol, Roberto Paredes  
    *Unveiling Differences: A Vision Encoder-Decoder Model for Difference Medical Visual Question Answering*  
    *Medical Imaging in Deep Learning*, 2025.  
-   🔗 [`OpenReview`](https://openreview.net/forum?id=8CNssOg7fk)
+   🔗 [`Website`](https://lightved-prhlt.github.io/Diff-MedVQA)
 
 ### 2024
 
@@ -36,15 +36,3 @@ A continuación se presentan algunas publicaciones clave que sustentan teóricam
 *Tailored design of Audio–Visual Speech Recognition models using Branchformers*  
 *Computer Speech & Language*, 2025.  
 🔗 [`DOI`](https://doi.org/10.1016/j.csl.2025.101811)
-
-<!-- @article{GIMENOGOMEZ2025101811,
-    title = {Tailored design of Audio–Visual Speech Recognition models using Branchformers},
-    journal = {Computer Speech & Language},
-    volume = {94},
-    pages = {101811},
-    year = {2025},
-    issn = {0885-2308},
-    doi = {https://doi.org/10.1016/j.csl.2025.101811},
-    url = {https://www.sciencedirect.com/science/article/pii/S0885230825000361},
-    author = {David Gimeno-Gómez and Carlos D. Martínez-Hinarejos},
-} -->
