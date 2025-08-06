@@ -8,7 +8,7 @@ A continuación se presentan algunas publicaciones clave que sustentan teóricam
 
 - Alejandro H. Toselli, Álvaro Cuéllar, Sònia Boadas, Enrique Vidal, Joan Andreu Sánchez  
    *Writer Identification using Simplified Handwritten Text Recognition Models*  
-   IbPRIA, 2025.
+   IbPRIA, 2025.  
    🔗 [`DOI`](https://doi.org/10.1007/978-3-031-99565-1_20)
 
 - Luis-Jesus Marhuenda, Miquel Obrador-Reina, Mohamed Aas-Alas, Alberto Albiol, Roberto Paredes  
